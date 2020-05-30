@@ -10,7 +10,7 @@ This .bat script will help you compile your code bypassing the IDE (manually).
 
 Before starting you need to first edit the compile.bat file yourself (for example, using Notepad or Visual Studio Code).
 
-*** Attention! Your paths will be different. ***
+**Attention! Your paths will be different.**
 
 Fill in the variable MY_INCLUDE in the compile.bat file by the path to the VsDevCmd.bat file in the folder with your Visual Studio.
 
