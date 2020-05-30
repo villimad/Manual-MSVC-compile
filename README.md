@@ -1,4 +1,4 @@
-# Manual-MSVC-compile
+# Manual MSVC compile
  Manual compilation on MSVC compiler without Microsoft Visual Studio.
  
 It often happens when your version of Microsoft Visual Studio stops working after a 30 day period.
