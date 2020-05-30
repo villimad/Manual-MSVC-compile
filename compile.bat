@@ -14,4 +14,5 @@ setlocal
     set MY_FILE="main.cpp"
 
     call %MY_COMPILER%  %MY_FILE%
+    
 endlocal
