@@ -35,6 +35,8 @@ Done! Now run compile.bat from the command line (to do this, enter "compile.bat"
 
 Now you do not need Visual Studio to successfully compile your C ++ projects, and that's good!
 
+But seriously, use QtCreator.
+
 ## Contributing
 
 1. Check for open issues or open a fresh issue to start a discussion.
